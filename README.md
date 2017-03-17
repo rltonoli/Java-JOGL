@@ -9,6 +9,8 @@ Eclipse IDE for Java Developers (Eclipse neon.2): https://www.eclipse.org/downlo
 JOGL (through JogAmp version 2.3) latest stable version: https://jogamp.org/deployment/jogamp-current/archive/
 
   Follow instructions from http://jogamp.org/wiki/index.php/Downloading_and_installing_JOGL
+
+  Configure Eclipse: http://jogamp.org/wiki/index.php/Setting_up_a_JogAmp_project_in_your_favorite_IDE#Eclipse_IDE_project
   
   Windows: check jogamp and opengl version by typing etc\test.bat on prompt inside jogamp's folder (prompt needs to be opeened as administrator)
   
