@@ -23,11 +23,11 @@ JSampleClear
 
 JAnimatedClear
 
-  Modified_JAnimatedClear
+-> Modified_JAnimatedClear
   
 JExample1_1
   
-  Modified_JExample1_1
+-> Modified_JExample1_1
   
-  Modified2_JExample1_1
+-> Modified2_JExample1_1
   
