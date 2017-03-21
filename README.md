@@ -16,3 +16,18 @@ JOGL (through JogAmp version 2.3) latest stable version: https://jogamp.org/depl
   
   Instructions for version check: http://jogamp.org/wiki/index.php/Jogamp_Versioning_and_Releases#Runtime_Version_Check
   
+
+Exercises -
+
+JSampleClear
+
+JAnimatedClear
+
+  Modified_JAnimatedClear
+  
+JExample1_1
+  
+  Modified_JExample1_1
+  
+  Modified2_JExample1_1
+  
