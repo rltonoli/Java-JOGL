@@ -1,5 +1,7 @@
 # Java-JOGL
 
+Repo for the IA725 - Computer Graphics I
+
 Install -
 
 Java SE Development Kit 8 (Java SE 1.8): http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
@@ -19,20 +21,58 @@ JOGL (through JogAmp version 2.3) latest stable version: https://jogamp.org/depl
 
 Exercises -
 
-JSampleClear
+## p1
 
-JAnimatedClear
 
--> Modified_JAnimatedClear
-  
-JExample1_1
-  
--> Modified_JExample1_1
-  
--> Modified2_JExample1_1
-  
-JSingleTriangle
+## p2
 
--> JSingleTriangle_Modified
+  
+## p3
 
-JAnimatedTriangle
+Frustum
+
+![Frustum](https://media.giphy.com/media/gEnLIIFtQGXqtsKCqW/giphy.gif)
+
+## p4
+
+Rotation
+
+![Rotation](https://media.giphy.com/media/PgFh42FZdzZ9d9epTu/giphy.gif)
+
+## p5
+
+Conics
+
+![Conics](https://media.giphy.com/media/F0gFnqM1LWSowaRzsA/source.gif)
+
+## p6
+
+Bspline Surface
+
+![BsplineSurface](https://media.giphy.com/media/9rqU6eoDHLJqj6LaoI/giphy.gif)
+
+## p7
+
+Bezier low
+
+![Bezierlow](https://media.giphy.com/media/IiFl75tKCNMeiWFmKW/giphy.gif)
+
+Bezier 
+
+![Bezier](https://media.giphy.com/media/OFT5diw3BOI32FWoTk/giphy.gif)
+
+Bezier high res
+
+![BezierHighRes](https://media.giphy.com/media/5yqK5FynB2ydItcFln/giphy.gif)
+
+Solids
+
+![Solids](https://media.giphy.com/media/8V6Pv5loGbdsFBnSys/source.gif)
+
+Hermite
+
+![Hermite](https://media.giphy.com/media/ww54CsrrcfUwSXrfAg/giphy.gif)
+
+Sweep
+
+![Sweep](https://media.giphy.com/media/DzGbENqupI9Woxx9k5/giphy.gif)
